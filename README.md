@@ -1,19 +1,19 @@
-# ⚡ Internet Speed Tester
+# Internet Speed Tester
 
 A sleek, dark-themed GUI application to test your internet speed in real-time using Python, `customtkinter`, and `speedtest-cli`.
 
 ---
 
-## 🖥️ Features
+## Features
 
-- 📶 Measures **Download**, **Upload**, and **Ping**
-- 🌙 Beautiful **dark theme** UI
-- ⚙️ Built with **CustomTkinter**
-- 📡 Uses `speedtest-cli` to fetch real-time speed data
+-  Measures **Download**, **Upload**, and **Ping**
+-  Beautiful **dark theme** UI
+-  Built with **CustomTkinter**
+-  Uses `speedtest-cli` to fetch real-time speed data
 
 ---
 
-## 📷 Preview
+## Preview
 
 <img width="1366" height="768" alt="Screenshot (452)" src="https://github.com/user-attachments/assets/df9a7b4c-3a0e-4a8d-b84e-d8848b78757c" />
 
@@ -26,20 +26,20 @@ A sleek, dark-themed GUI application to test your internet speed in real-time us
 
 ---
 
-## 🛠️ Installation
+## Installation
 
-### 1. Clone the repository
+## 1. Clone the repository
 ```bash
 git clone https://github.com/Divija-Arora/Internet-Speed-Tester.git
 cd Internet-Speed-Tester
 ```
 
-### 2. Install dependencies
+## 2. Install dependencies
 ```bash
 pip install customtkinter speedtest-cli
 ```
 
-### 3. Run the app
+## 3. Run the app
 ```bash
 python Internet_Speed_Tester_Code.py
 ```
