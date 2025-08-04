@@ -46,7 +46,7 @@ python Internet_Speed_Tester_Code.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Divija Arora**  
 Passionate about tech, design, and open-source!  
@@ -54,12 +54,6 @@ Passionate about tech, design, and open-source!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
-
----
-
-## 🌟 Show Your Support
-
-If you like this project, please ⭐ star the repo and share it with others!
